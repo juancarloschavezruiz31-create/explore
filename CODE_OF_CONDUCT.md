@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+collections/made-in-india/ @github/india-community-reviewers @github/communities-oss-reviewers# Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
