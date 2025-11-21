@@ -1,4 +1,4 @@
-dir://computer/# GitHub Explore
+      base64dir://computer/# GitHub Explore
 
 This repository houses all of the community-curated content for GitHub Topics and Collections.
 
